@@ -1,9 +1,13 @@
 # Projeto Sistema Acadêmico
 
-### Sistema CRUD em Python para gerenciamento acadêmico, desenvolvido durante a disciplina de Raciocínio Computacional.
+### Sistema CRUD em Python para gerenciamento acadêmico, desenvolvido durante a disciplina de Raciocínio Computacional
 
-### Feito por: Malu Vieira.
+## Ferramentas utilizadas:
 
-### Ferramentas Utilizadas:
+* Python
 
-- Python
+## Feito por:
+
+### Malu Vieira
+
+### Linkedin: https://www.linkedin.com/in/maria-luiza-vieira-a040a6141/
